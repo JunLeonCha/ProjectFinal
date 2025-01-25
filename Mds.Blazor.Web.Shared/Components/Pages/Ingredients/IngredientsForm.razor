@@ -1,0 +1,23 @@
+﻿@page "/ingredients/create"
+@page "/ingredients/edit/{IngredientId:int}"
+
+<div class="edit-pate">
+    <EditForm Model="this.ingredient" OnValidSubmit="this.OnValidSubmitHandler">
+
+        <DataAnnotationsValidator />
+
+        <div class="form-group">
+            <label for="name">Name</label>
+            <InputText class="form-control" id="name" @bind-Value="this.ingredient.Name" />
+            <ValidationMessage For="(() => this.ingredient.Name)" />
+        </div>
+
+        <div class="form-group">
+            <label for="kcal">KCal</label>
+            <InputNumber class="form-control" id="kcal" @bind-Value="this.ingredient.KCal" />
+            <ValidationMessage For="(() => this.ingredient.KCal)" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Save</button>
+    </EditForm>
+</div>

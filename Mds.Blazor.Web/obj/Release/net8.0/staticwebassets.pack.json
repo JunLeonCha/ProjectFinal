@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Mds.Blazor.Web.66xjzqokld.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Mds.Blazor.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Mds.Blazor.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Mds.Blazor.Web.props",
+      "PackagePath": "build\\Mds.Blazor.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Mds.Blazor.Web.props",
+      "PackagePath": "buildMultiTargeting\\Mds.Blazor.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Mds.Blazor.Web.props",
+      "PackagePath": "buildTransitive\\Mds.Blazor.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

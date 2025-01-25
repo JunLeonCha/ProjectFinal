@@ -1,0 +1,26 @@
+﻿@page "/ingredients"
+
+<div class="ingredients">
+    <div>
+        <NavLink href="/ingredients/create" class="btn btn-primary">Add</NavLink>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Kcal</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in this.ingredientCollection)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.KCal</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

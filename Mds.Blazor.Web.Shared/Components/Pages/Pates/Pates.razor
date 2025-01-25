@@ -1,0 +1,24 @@
+﻿@page "/pates"
+
+<div class="pates">
+    <div>
+        <NavLink href="/pates/create" class="btn btn-primary">Add</NavLink>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in this.pateCollection)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

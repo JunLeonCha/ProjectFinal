@@ -1,0 +1,38 @@
+﻿@page "/pizzas"
+
+<div class="pizzas">
+    <div>
+        <NavLink href="/pizzas/create" class="btn btn-primary">Add</NavLink>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Pate</th>
+                <th scope="col">Ingredients</th>
+                <th scope="col">Kcal</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in this.pizzaCollection)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Pate.Name</td>
+                    <td>
+                        <ul>
+                            @foreach(var i in item.Ingredients)
+                            {
+                                <li>@i.Name</li>
+                            }
+                        </ul>
+                    </td>
+
+                    <td>@item.KCal</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

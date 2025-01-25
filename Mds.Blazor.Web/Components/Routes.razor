@@ -1,0 +1,7 @@
+﻿@using Mds.Blazor.Web.Shared.Components.Layout
+<Router AppAssembly="typeof(Mds.Blazor.Web.Shared.Components.App).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="routeData" DefaultLayout="typeof(MainLayout)" />
+        <FocusOnNavigate RouteData="routeData" Selector="h1" />
+    </Found>
+</Router>

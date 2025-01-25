@@ -1,0 +1,12 @@
+﻿<p>Hello : @this.Title</p>
+
+@this.HelloFrag
+
+@code {
+    [Parameter]
+    [EditorRequired]
+    public string Title { get; set; }
+
+    [Parameter]
+    public RenderFragment HelloFrag { get; set; }
+}

@@ -1,0 +1,1 @@
+C:\3BStudio\06_Formations\MyDigitalSchool\TP\Mds.Blazor\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
