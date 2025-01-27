@@ -1,0 +1,50 @@
+﻿@page "/user/create"
+
+<div class="edit-user">
+    <EditForm Model="this.user" OnValidSubmit="this.OnValidSubmitHandler">
+
+        <DataAnnotationsValidator />
+
+        <div class="form-group">
+            <label for="firstname">Prénom</label>
+            <InputText class="form-control" id="firstname" @bind-Value="this.user.Firstname" />
+            <ValidationMessage For="(() => this.user.Firstname)" />
+        </div>
+
+        <div class="form-group">
+            <label for="lastname">Nom</label>
+            <InputText class="form-control" id="lastname" @bind-Value="this.user.Lastname" />
+            <ValidationMessage For="(() => this.user.Lastname)" />
+        </div>
+
+        <div class="form-group">
+            <label for="email">Email</label>
+            <InputText class="form-control" id="email" @bind-Value="this.user.Email" type="email" />
+            <ValidationMessage For="(() => this.user.Email)" />
+        </div>
+
+        <div class="form-group">
+            <label for="address">Adresse</label>
+            <InputText class="form-control" id="address" @bind-Value="this.user.Address" />
+            <ValidationMessage For="(() => this.user.Address)" />
+        </div>
+
+        <div class="form-group">
+            <label for="phone">Téléphone</label>
+            <InputText class="form-control" id="phone" @bind-Value="this.user.Phone" />
+            <ValidationMessage For="(() => this.user.Phone)" />
+        </div>
+
+        <div class="form-group">
+            <label for="dateOfBirth">Date de naissance</label>
+            <InputDate @bind-Value="this.user.DateOfBirth" class="form-control" id="dateOfBirth" />
+            <ValidationMessage For="(() => this.user.DateOfBirth)" />
+        </div>
+
+        <div class="form-group">
+            <label for="interests">Loisirs</label>
+            <InputText class="form-control" id="interests" @bind-Value="this.user.Interests" />
+        </div>
+        <button type="submit" class="btn btn-primary">Save</button>
+    </EditForm>
+</div>

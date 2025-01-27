@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Bd3ujBZU1riQELVt90T8YrsZojljJy224jCnN7SYNJU=",
+  "Hash": "yARIGxFdkoXdkT2JR27rzeSWXoJGy3NNnuTbh9nIB5Q=",
   "Source": "Mds.Blazor.Web.Shared",
   "BasePath": "_content/Mds.Blazor.Web.Shared",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Mds.Blazor.Web.Shared\\wwwroot",
       "Source": "Mds.Blazor.Web.Shared",
-      "ContentRoot": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\",
       "BasePath": "_content/Mds.Blazor.Web.Shared",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mds.Blazor.Web.Shared.styles.css",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mds.Blazor.Web.Shared.styles.css",
       "SourceId": "Mds.Blazor.Web.Shared",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Mds.Blazor.Web.Shared",
       "RelativePath": "Mds.Blazor.Web.Shared#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "qEc8pdw1n403G4GTia8Bvd4/M2L5j+D6/nCXuYm/Ymo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mds.Blazor.Web.Shared.styles.css"
+      "OriginalItemSpec": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mds.Blazor.Web.Shared.styles.css"
     },
     {
-      "Identity": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css",
       "SourceId": "Mds.Blazor.Web.Shared",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Mds.Blazor.Web.Shared",
       "RelativePath": "Mds.Blazor.Web.Shared#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "qEc8pdw1n403G4GTia8Bvd4/M2L5j+D6/nCXuYm/Ymo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css"
+      "OriginalItemSpec": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css"
     },
     {
-      "Identity": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\wwwroot\\background.png",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\background.png",
       "SourceId": "Mds.Blazor.Web.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\",
       "BasePath": "_content/Mds.Blazor.Web.Shared",
       "RelativePath": "background#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js",
       "SourceId": "Mds.Blazor.Web.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\",
       "BasePath": "_content/Mds.Blazor.Web.Shared",
       "RelativePath": "exampleJsInterop#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -104,7 +104,7 @@
   "Endpoints": [
     {
       "Route": "background.png",
-      "AssetFile": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\wwwroot\\background.png",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -125,7 +125,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 12:58:33 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -141,7 +141,7 @@
     },
     {
       "Route": "background.x2rx4ajns0.png",
-      "AssetFile": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\wwwroot\\background.png",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -162,7 +162,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 12:58:33 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -186,7 +186,7 @@
     },
     {
       "Route": "exampleJsInterop.6pqz8bsss0.js",
-      "AssetFile": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -207,7 +207,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 12:58:33 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -231,7 +231,7 @@
     },
     {
       "Route": "exampleJsInterop.js",
-      "AssetFile": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -252,7 +252,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 12:58:33 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -268,7 +268,7 @@
     },
     {
       "Route": "Mds.Blazor.Web.Shared.bundle.scp.css",
-      "AssetFile": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -289,7 +289,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 13:05:02 GMT"
+          "Value": "Mon, 27 Jan 2025 21:30:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -305,7 +305,7 @@
     },
     {
       "Route": "Mds.Blazor.Web.Shared.c3n7f2mzfl.bundle.scp.css",
-      "AssetFile": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -326,7 +326,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 13:05:02 GMT"
+          "Value": "Mon, 27 Jan 2025 21:30:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -350,7 +350,7 @@
     },
     {
       "Route": "Mds.Blazor.Web.Shared.c3n7f2mzfl.styles.css",
-      "AssetFile": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mds.Blazor.Web.Shared.styles.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mds.Blazor.Web.Shared.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -371,7 +371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 13:05:02 GMT"
+          "Value": "Mon, 27 Jan 2025 21:30:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -395,7 +395,7 @@
     },
     {
       "Route": "Mds.Blazor.Web.Shared.styles.css",
-      "AssetFile": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mds.Blazor.Web.Shared.styles.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mds.Blazor.Web.Shared.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -416,7 +416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 13:05:02 GMT"
+          "Value": "Mon, 27 Jan 2025 21:30:08 GMT"
         },
         {
           "Name": "Cache-Control",

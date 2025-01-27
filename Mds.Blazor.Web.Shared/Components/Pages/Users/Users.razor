@@ -1,0 +1,40 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<div class="users">
+    <div>
+        <NavLink href="/user/create" class="btn btn-primary">Add</NavLink>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Prénom</th>
+                <th scope="col">Nom</th>
+                <th scope="col">Email</th>
+                <th scope="col">Adresse</th>
+                <th scope="col">Téléphone</th>
+                <th scope="col">Date de naissance</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in this.usersCollection)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Firstname</td>
+                    <td>@item.Lastname</td>
+                    <td>@item.Email</td>
+                    <td>@item.Address</td>
+                    <td>@item.Phone</td>
+                    <td>@item.DateOfBirth</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

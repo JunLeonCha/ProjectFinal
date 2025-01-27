@@ -7,9 +7,7 @@ public static class ServiceCollectionExtensions
 {
     public static IServiceCollection AddWebServices(this IServiceCollection services)
     {
-        services.AddTransient<IIngredientService, IngredientService>();
-        services.AddTransient<IPateService, PateService>();
-        services.AddTransient<IPizzaService, PizzaService>();
+        services.AddTransient<IUserService, UserService>();
 
         return services;
     }

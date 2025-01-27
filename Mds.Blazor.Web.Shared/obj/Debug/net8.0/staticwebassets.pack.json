@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Mds.Blazor.Web.Shared.c3n7f2mzfl.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Mds.Blazor.Web.Shared.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Mds.Blazor.Web.Shared.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Mds.Blazor.Web.Shared.props",
+      "PackagePath": "build\\Mds.Blazor.Web.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Mds.Blazor.Web.Shared.props",
+      "PackagePath": "buildMultiTargeting\\Mds.Blazor.Web.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Mds.Blazor.Web.Shared.props",
+      "PackagePath": "buildTransitive\\Mds.Blazor.Web.Shared.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

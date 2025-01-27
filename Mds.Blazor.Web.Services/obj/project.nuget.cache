@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LWqKyxjJtew=",
+  "success": true,
+  "projectFilePath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jun-L\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

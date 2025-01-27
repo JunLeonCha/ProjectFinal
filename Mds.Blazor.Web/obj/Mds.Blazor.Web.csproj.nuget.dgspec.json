@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web\\Mds.Blazor.Web.csproj": {}
+    "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web\\Mds.Blazor.Web.csproj": {}
   },
   "projects": {
-    "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.ServiceDefaults\\Mds.Blazor.ServiceDefaults.csproj": {
+    "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.ServiceDefaults\\Mds.Blazor.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.ServiceDefaults\\Mds.Blazor.ServiceDefaults.csproj",
+        "projectUniqueName": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.ServiceDefaults\\Mds.Blazor.ServiceDefaults.csproj",
         "projectName": "Mds.Blazor.ServiceDefaults",
-        "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.ServiceDefaults\\Mds.Blazor.ServiceDefaults.csproj",
-        "packagesPath": "C:\\3BStudio\\NuGet",
-        "outputPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.ServiceDefaults\\obj\\",
+        "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.ServiceDefaults\\Mds.Blazor.ServiceDefaults.csproj",
+        "packagesPath": "C:\\Users\\Jun-L\\.nuget\\packages\\",
+        "outputPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MaëlBARBIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jun-L\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,9 +25,9 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/3b-studio/3BS-Internal/_packaging/3BS-Feed%40Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -43,7 +43,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -99,24 +99,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj": {
+    "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj",
+        "projectUniqueName": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj",
         "projectName": "Mds.Blazor.Web.Services",
-        "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj",
-        "packagesPath": "C:\\3BStudio\\NuGet",
-        "outputPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Services\\obj\\",
+        "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj",
+        "packagesPath": "C:\\Users\\Jun-L\\.nuget\\packages\\",
+        "outputPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MaëlBARBIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jun-L\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -124,9 +124,9 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/3b-studio/3BS-Internal/_packaging/3BS-Feed%40Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -142,7 +142,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -171,24 +171,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
+    "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj",
+        "projectUniqueName": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj",
         "projectName": "Mds.Blazor.Web.Shared",
-        "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj",
-        "packagesPath": "C:\\3BStudio\\NuGet",
-        "outputPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\obj\\",
+        "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj",
+        "packagesPath": "C:\\Users\\Jun-L\\.nuget\\packages\\",
+        "outputPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MaëlBARBIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jun-L\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -196,16 +196,16 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/3b-studio/3BS-Internal/_packaging/3BS-Feed%40Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj": {
-                "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj"
+              "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj": {
+                "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj"
               }
             }
           }
@@ -218,7 +218,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -247,24 +247,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web\\Mds.Blazor.Web.csproj": {
+    "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web\\Mds.Blazor.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web\\Mds.Blazor.Web.csproj",
+        "projectUniqueName": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web\\Mds.Blazor.Web.csproj",
         "projectName": "Mds.Blazor.Web",
-        "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web\\Mds.Blazor.Web.csproj",
-        "packagesPath": "C:\\3BStudio\\NuGet",
-        "outputPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web\\obj\\",
+        "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web\\Mds.Blazor.Web.csproj",
+        "packagesPath": "C:\\Users\\Jun-L\\.nuget\\packages\\",
+        "outputPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MaëlBARBIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jun-L\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -272,22 +272,22 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/3b-studio/3BS-Internal/_packaging/3BS-Feed%40Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.ServiceDefaults\\Mds.Blazor.ServiceDefaults.csproj": {
-                "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.ServiceDefaults\\Mds.Blazor.ServiceDefaults.csproj"
+              "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.ServiceDefaults\\Mds.Blazor.ServiceDefaults.csproj": {
+                "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.ServiceDefaults\\Mds.Blazor.ServiceDefaults.csproj"
               },
-              "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj": {
-                "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj"
+              "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj": {
+                "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Services\\Mds.Blazor.Web.Services.csproj"
               },
-              "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
-                "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj"
+              "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
+                "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj"
               }
             }
           }
@@ -300,7 +300,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -326,7 +326,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

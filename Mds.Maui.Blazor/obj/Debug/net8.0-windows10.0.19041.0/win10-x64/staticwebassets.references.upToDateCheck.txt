@@ -12,3 +12,15 @@ C:\3BStudio\06_Formations\MyDigitalSchool\TP\Mds.Blazor\Mds.Blazor.Web\obj\Debug
 C:\3BStudio\06_Formations\MyDigitalSchool\TP\Mds.Blazor\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
 C:\3BStudio\06_Formations\MyDigitalSchool\TP\Mds.Blazor\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
 C:\3BStudio\06_Formations\MyDigitalSchool\TP\Mds.Blazor\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json

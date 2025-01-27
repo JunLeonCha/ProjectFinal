@@ -44965,24 +44965,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\3BStudio\\NuGet": {},
+    "C:\\Users\\Jun-L\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Maui.Blazor\\Mds.Maui.Blazor.csproj",
+      "projectUniqueName": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\Mds.Maui.Blazor.csproj",
       "projectName": "Mds.Maui.Blazor",
-      "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Maui.Blazor\\Mds.Maui.Blazor.csproj",
-      "packagesPath": "C:\\3BStudio\\NuGet",
-      "outputPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Maui.Blazor\\obj\\",
+      "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\Mds.Maui.Blazor.csproj",
+      "packagesPath": "C:\\Users\\Jun-L\\.nuget\\packages\\",
+      "outputPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\MaëlBARBIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jun-L\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -44993,40 +44993,40 @@
         "net8.0-windows10.0.19041.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/3b-studio/3BS-Internal/_packaging/3BS-Feed%40Local/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
           "projectReferences": {
-            "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
-              "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj"
+            "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
+              "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj"
             }
           }
         },
         "net8.0-ios18.0": {
           "targetAlias": "net8.0-ios",
           "projectReferences": {
-            "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
-              "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj"
+            "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
+              "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj"
             }
           }
         },
         "net8.0-maccatalyst18.0": {
           "targetAlias": "net8.0-maccatalyst",
           "projectReferences": {
-            "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
-              "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj"
+            "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
+              "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj"
             }
           }
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
           "projectReferences": {
-            "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
-              "projectPath": "C:\\3BStudio\\06_Formations\\MyDigitalSchool\\TP\\Mds.Blazor\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj"
+            "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj": {
+              "projectPath": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj"
             }
           }
         }
@@ -45039,7 +45039,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -45111,7 +45111,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       },
       "net8.0-ios18.0": {
         "targetAlias": "net8.0-ios",
@@ -45153,11 +45153,11 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.iOS.Ref.net8.0_18.0",
-            "version": "[18.0.8314, 18.0.8314]"
+            "version": "[18.0.8316, 18.0.8316]"
           },
           {
             "name": "Microsoft.iOS.Runtime.iossimulator-x64.net8.0_18.0",
-            "version": "[18.0.8314, 18.0.8314]"
+            "version": "[18.0.8316, 18.0.8316]"
           }
         ],
         "frameworkReferences": {
@@ -45168,7 +45168,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       },
       "net8.0-maccatalyst18.0": {
         "targetAlias": "net8.0-maccatalyst",
@@ -45211,11 +45211,11 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.MacCatalyst.Ref.net8.0_18.0",
-            "version": "[18.0.8314, 18.0.8314]"
+            "version": "[18.0.8316, 18.0.8316]"
           },
           {
             "name": "Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net8.0_18.0",
-            "version": "[18.0.8314, 18.0.8314]"
+            "version": "[18.0.8316, 18.0.8316]"
           }
         ],
         "frameworkReferences": {
@@ -45226,7 +45226,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       },
       "net8.0-windows10.0.19041": {
         "targetAlias": "net8.0-windows10.0.19041.0",
@@ -45273,7 +45273,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -1,0 +1,1079 @@
+{
+  "Version": 1,
+  "Hash": "qHmBrpV3HomWlSE8Ggu8So3huhADM85zIZUuXp/0V3M=",
+  "Source": "Mds.Maui.Blazor",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj",
+      "Version": 2,
+      "Source": "Mds.Blazor.Web.Shared",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mds.Blazor.Web.Shared\\wwwroot",
+      "Source": "Mds.Blazor.Web.Shared",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\",
+      "BasePath": "_content/Mds.Blazor.Web.Shared",
+      "Pattern": "**"
+    },
+    {
+      "Name": "Mds.Maui.Blazor\\wwwroot",
+      "Source": "Mds.Maui.Blazor",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css",
+      "SourceId": "Mds.Blazor.Web.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Mds.Blazor.Web.Shared",
+      "RelativePath": "Mds.Blazor.Web.Shared#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "c3n7f2mzfl",
+      "Integrity": "qEc8pdw1n403G4GTia8Bvd4/M2L5j+D6/nCXuYm/Ymo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\background.png",
+      "SourceId": "Mds.Blazor.Web.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\",
+      "BasePath": "_content/Mds.Blazor.Web.Shared",
+      "RelativePath": "background#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x2rx4ajns0",
+      "Integrity": "WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "Mds.Blazor.Web.Shared",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\",
+      "BasePath": "_content/Mds.Blazor.Web.Shared",
+      "RelativePath": "exampleJsInterop#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6pqz8bsss0",
+      "Integrity": "FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js"
+    },
+    {
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css",
+      "SourceId": "Mds.Maui.Blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "Mds.Maui.Blazor#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "hdmysw78ym",
+      "Integrity": "O86/Rz1NmXmwf0ycqIG6PF/zbvxho0V96qCfB38GYtw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css"
+    },
+    {
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css",
+      "SourceId": "Mds.Maui.Blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "Mds.Maui.Blazor#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "bxurof4697",
+      "Integrity": "sbZe3sxPtjnvPdfcoPCAlVD9mZV1b0YXZ9v3kf0no3I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\app.css",
+      "SourceId": "Mds.Maui.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dex3usdpik",
+      "Integrity": "K1bY5kgLeD7nMlhLfmEK3TdjOVTQGBzyOIF4YwRlzuQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Mds.Maui.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Mds.Maui.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\favicon.png",
+      "SourceId": "Mds.Maui.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\index.html",
+      "SourceId": "Mds.Maui.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gk0zwgatjg",
+      "Integrity": "YNKhKlNOWQ6RVaZj49qMr7RgYUdHDgf/5ifiQ2cfzZM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/Mds.Blazor.Web.Shared/background.png",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Mds.Blazor.Web.Shared/background.x2rx4ajns0.png",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2rx4ajns0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Mds.Blazor.Web.Shared/background.png"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Mds.Blazor.Web.Shared/exampleJsInterop.6pqz8bsss0.js",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6pqz8bsss0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Mds.Blazor.Web.Shared/exampleJsInterop.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Mds.Blazor.Web.Shared/exampleJsInterop.js",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Mds.Blazor.Web.Shared/Mds.Blazor.Web.Shared.bundle.scp.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qEc8pdw1n403G4GTia8Bvd4/M2L5j+D6/nCXuYm/Ymo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 21:30:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qEc8pdw1n403G4GTia8Bvd4/M2L5j+D6/nCXuYm/Ymo="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Mds.Blazor.Web.Shared/Mds.Blazor.Web.Shared.c3n7f2mzfl.bundle.scp.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mds.Blazor.Web.Shared.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qEc8pdw1n403G4GTia8Bvd4/M2L5j+D6/nCXuYm/Ymo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 21:30:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c3n7f2mzfl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qEc8pdw1n403G4GTia8Bvd4/M2L5j+D6/nCXuYm/Ymo="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Mds.Blazor.Web.Shared/Mds.Blazor.Web.Shared.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K1bY5kgLeD7nMlhLfmEK3TdjOVTQGBzyOIF4YwRlzuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K1bY5kgLeD7nMlhLfmEK3TdjOVTQGBzyOIF4YwRlzuQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.dex3usdpik.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K1bY5kgLeD7nMlhLfmEK3TdjOVTQGBzyOIF4YwRlzuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dex3usdpik"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K1bY5kgLeD7nMlhLfmEK3TdjOVTQGBzyOIF4YwRlzuQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "index.gk0zwgatjg.html",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YNKhKlNOWQ6RVaZj49qMr7RgYUdHDgf/5ifiQ2cfzZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gk0zwgatjg"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YNKhKlNOWQ6RVaZj49qMr7RgYUdHDgf/5ifiQ2cfzZM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YNKhKlNOWQ6RVaZj49qMr7RgYUdHDgf/5ifiQ2cfzZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YNKhKlNOWQ6RVaZj49qMr7RgYUdHDgf/5ifiQ2cfzZM="
+        }
+      ]
+    },
+    {
+      "Route": "Mds.Maui.Blazor.bundle.scp.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sbZe3sxPtjnvPdfcoPCAlVD9mZV1b0YXZ9v3kf0no3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:15:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sbZe3sxPtjnvPdfcoPCAlVD9mZV1b0YXZ9v3kf0no3I="
+        }
+      ]
+    },
+    {
+      "Route": "Mds.Maui.Blazor.bxurof4697.bundle.scp.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sbZe3sxPtjnvPdfcoPCAlVD9mZV1b0YXZ9v3kf0no3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:15:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bxurof4697"
+        },
+        {
+          "Name": "label",
+          "Value": "Mds.Maui.Blazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sbZe3sxPtjnvPdfcoPCAlVD9mZV1b0YXZ9v3kf0no3I="
+        }
+      ]
+    },
+    {
+      "Route": "Mds.Maui.Blazor.hdmysw78ym.styles.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O86/Rz1NmXmwf0ycqIG6PF/zbvxho0V96qCfB38GYtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:15:01 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Mds.Blazor.Web.Shared/Mds.Blazor.Web.Shared.c3n7f2mzfl.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hdmysw78ym"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O86/Rz1NmXmwf0ycqIG6PF/zbvxho0V96qCfB38GYtw="
+        },
+        {
+          "Name": "label",
+          "Value": "Mds.Maui.Blazor.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "Mds.Maui.Blazor.styles.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O86/Rz1NmXmwf0ycqIG6PF/zbvxho0V96qCfB38GYtw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:15:01 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Mds.Blazor.Web.Shared/Mds.Blazor.Web.Shared.c3n7f2mzfl.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O86/Rz1NmXmwf0ycqIG6PF/zbvxho0V96qCfB38GYtw="
+        }
+      ]
+    }
+  ]
+}

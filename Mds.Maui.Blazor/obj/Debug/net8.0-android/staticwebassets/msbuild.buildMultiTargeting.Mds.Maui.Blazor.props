@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mds.Maui.Blazor.props" />
+</Project>

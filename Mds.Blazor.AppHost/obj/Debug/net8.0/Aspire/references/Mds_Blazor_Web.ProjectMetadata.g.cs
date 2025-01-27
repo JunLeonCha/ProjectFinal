@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class Mds_Blazor_Web : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\3BStudio\06_Formations\MyDigitalSchool\TP\Mds.Blazor\Mds.Blazor.Web\Mds.Blazor.Web.csproj""";
+    public string ProjectPath => """C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web\Mds.Blazor.Web.csproj""";
 }

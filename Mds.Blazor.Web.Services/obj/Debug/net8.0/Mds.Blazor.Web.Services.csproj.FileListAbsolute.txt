@@ -1,0 +1,13 @@
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\bin\Debug\net8.0\Mds.Blazor.Web.Services.deps.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\bin\Debug\net8.0\Mds.Blazor.Web.Services.dll
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\bin\Debug\net8.0\Mds.Blazor.Web.Services.pdb
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\obj\Debug\net8.0\Mds.Blazor.Web.Services.csproj.AssemblyReference.cache
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\obj\Debug\net8.0\Mds.Blazor.Web.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\obj\Debug\net8.0\Mds.Blazor.Web.Services.AssemblyInfoInputs.cache
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\obj\Debug\net8.0\Mds.Blazor.Web.Services.AssemblyInfo.cs
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\obj\Debug\net8.0\Mds.Blazor.Web.Services.csproj.CoreCompileInputs.cache
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\obj\Debug\net8.0\Mds.Blazor.Web.Services.sourcelink.json
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\obj\Debug\net8.0\Mds.Blazor.Web.Services.dll
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\obj\Debug\net8.0\refint\Mds.Blazor.Web.Services.dll
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\obj\Debug\net8.0\Mds.Blazor.Web.Services.pdb
+C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Services\obj\Debug\net8.0\ref\Mds.Blazor.Web.Services.dll
