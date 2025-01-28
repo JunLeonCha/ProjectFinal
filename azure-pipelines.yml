@@ -1,0 +1,37 @@
+trigger:
+  - main
+
+pool:
+  vmImage: "windows-latest"
+
+variables:
+  buildConfiguration: "Release"
+  outputDirectory: "$(Build.ArtifactStagingDirectory)/apk"
+
+steps:
+  - task: UseDotNet@2
+    inputs:
+      packageType: "sdk"
+      version: "8.0"
+      installationPath: $(Agent.ToolsDirectory)/dotnet
+
+  - script: |
+      dotnet workload install maui
+    displayName: "Installer les workloads MAUI"
+
+  - task: DotNetCoreCLI@2
+    inputs:
+      command: "restore"
+      projects: "Maui/Mds.Maui.Blazor/Mds.Maui.Blazor.csproj"
+
+  - task: DotNetCoreCLI@2
+    inputs:
+      command: "build"
+      projects: "Maui/Mds.Maui.Blazor/Mds.Maui.Blazor.csproj"
+      arguments: "-f:net8.0-android -c $(buildConfiguration) /p:OutputPath=$(outputDirectory)"
+
+  - task: PublishBuildArtifacts@1
+    inputs:
+      PathtoPublish: "$(outputDirectory)"
+      ArtifactName: "apk"
+      publishLocation: "Container"
