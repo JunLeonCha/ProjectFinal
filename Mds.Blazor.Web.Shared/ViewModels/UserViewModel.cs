@@ -19,6 +19,6 @@ public sealed class UserViewModel
     public DateOnly DateOfBirth { get; set; }
     public string? Address { get; set; }
     public string? Phone { get; set; }
-    public string? Interests { get; set; }
+    public List<string> Interests { get; set; } = new();
 }
 

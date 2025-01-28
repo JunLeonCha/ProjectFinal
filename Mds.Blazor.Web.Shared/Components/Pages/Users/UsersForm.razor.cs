@@ -21,13 +21,14 @@ public sealed partial class UsersForm
     {
         try
         {
+            string interestsAsString = string.Join(",", user.Interests);
             this.UserService.Add(new()
             {
                 Email = user.Email,
                 Firstname = user.Firstname,
                 Lastname = user.Lastname,
                 Phone = user.Phone,
-                Interests = user.Interests,
+                Interests = interestsAsString,
                 DateOfBirth = user.DateOfBirth,
                 Address = user.Address,
             });

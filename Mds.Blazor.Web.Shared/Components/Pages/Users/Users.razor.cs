@@ -26,7 +26,7 @@ namespace Mds.Blazor.Web.Shared.Components.Pages.Users
                     DateOfBirth = x.DateOfBirth,
                     Email = x.Email,
                     Firstname = x.Firstname,
-                    Interests = x.Interests,
+                    Interests = x.Interests?.Split(',', StringSplitOptions.RemoveEmptyEntries).ToList() ?? new List<string>(),
                     Lastname = x.Lastname,
                     Phone = x.Phone
                 }).ToList();

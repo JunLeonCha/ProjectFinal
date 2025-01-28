@@ -42,9 +42,40 @@
         </div>
 
         <div class="form-group">
-            <label for="interests">Loisirs</label>
-            <InputText class="form-control" id="interests" @bind-Value="this.user.Interests" />
+            <label>Loisirs</label>
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" @bind="newInterest" placeholder="Ajouter un loisir" />
+                <button class="btn btn-outline-secondary" type="button" @onclick="AddInterest">Ajouter</button>
+            </div>
+
+            <ul class="list-group">
+                @foreach (var interest in this.user.Interests)
+                {
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        @interest
+                        <button class="btn btn-danger btn-sm" @onclick="() => RemoveInterest(interest)">Supprimer</button>
+                    </li>
+                }
+            </ul>
         </div>
         <button type="submit" class="btn btn-primary">Save</button>
     </EditForm>
 </div>
+
+@code {
+    private string newInterest = string.Empty;
+
+    private void AddInterest()
+    {
+        if (!string.IsNullOrWhiteSpace(newInterest) && !this.user.Interests.Contains(newInterest))
+        {
+            this.user.Interests.Add(newInterest);
+            newInterest = string.Empty; // Réinitialise le champ après ajout
+        }
+    }
+
+    private void RemoveInterest(string interest)
+    {
+        this.user.Interests.Remove(interest);
+    }
+}
