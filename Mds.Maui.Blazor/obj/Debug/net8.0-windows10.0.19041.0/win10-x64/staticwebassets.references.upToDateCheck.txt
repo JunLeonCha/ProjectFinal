@@ -24,3 +24,4 @@ C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.
 C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
 C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
 C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gixal\Dev\M2\Dev natif\final\vazy\Mds.Blazor.Web.Shared\obj\Debug\net8.0\staticwebassets.build.json

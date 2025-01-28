@@ -9,7 +9,7 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mds.Maui.Blazor
 build_property.RootNamespace = Mds.Maui.Blazor
-build_property.ProjectDir = C:\MDS\MAUI\ProjectFinal\Mds.Maui.Blazor\
+build_property.ProjectDir = C:\Users\gixal\Dev\M2\Dev natif\final\vazy\Mds.Maui.Blazor\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotOptimizerEnabled = true
@@ -23,68 +23,68 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\MDS\MAUI\ProjectFinal\Mds.Maui.Blazor
+build_property.MSBuildProjectDirectory = C:\Users\gixal\Dev\M2\Dev natif\final\vazy\Mds.Maui.Blazor
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/MDS/MAUI/ProjectFinal/Mds.Maui.Blazor/App.xaml]
+[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Maui.Blazor/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mds.Maui.Blazor.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/MDS/MAUI/ProjectFinal/Mds.Maui.Blazor/MainPage.xaml]
+[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Maui.Blazor/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Mds.Maui.Blazor.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/MDS/MAUI/ProjectFinal/Mds.Maui.Blazor/Components/Pages/Counter.razor]
+[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Maui.Blazor/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/MDS/MAUI/ProjectFinal/Mds.Maui.Blazor/Components/Pages/Home.razor]
+[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Maui.Blazor/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/MDS/MAUI/ProjectFinal/Mds.Maui.Blazor/Components/Pages/Weather.razor]
+[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Maui.Blazor/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/MDS/MAUI/ProjectFinal/Mds.Maui.Blazor/Components/Routes.razor]
+[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Maui.Blazor/Components/Routes.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/MDS/MAUI/ProjectFinal/Mds.Maui.Blazor/Components/_Imports.razor]
+[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Maui.Blazor/Components/_Imports.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/MDS/MAUI/ProjectFinal/Mds.Maui.Blazor/Components/Layout/MainLayout.razor]
+[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Maui.Blazor/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = b-3t4fo7hsho
 
-[C:/MDS/MAUI/ProjectFinal/Mds.Maui.Blazor/Components/Layout/NavMenu.razor]
+[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Maui.Blazor/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
