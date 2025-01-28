@@ -6,7 +6,7 @@ pool:
 
 variables:
   buildConfiguration: "Release"
-  outputDirectory: "$(Build.ArtifactStagingDirectory)/apk"
+  apkOutputPath: "$(Build.ArtifactStagingDirectory)/apk"
 
 steps:
   - task: UseDotNet@2
@@ -28,10 +28,14 @@ steps:
     inputs:
       command: "build"
       projects: "Mds.Maui.Blazor/Mds.Maui.Blazor.csproj"
-      arguments: "-f:net8.0-android -c $(buildConfiguration) /p:OutputPath=$(outputDirectory)"
+      arguments: "-f:net8.0-android -c $(buildConfiguration) /p:AndroidPackageFormat=apk /p:OutputPath=$(apkOutputPath)"
+
+  - script: dir "$(apkOutputPath)" /s
+    displayName: "📂 Vérifier les fichiers générés"
 
   - task: PublishBuildArtifacts@1
+    displayName: "📢 Publier l'APK"
     inputs:
-      PathtoPublish: "$(outputDirectory)"
+      PathtoPublish: "$(apkOutputPath)"
       ArtifactName: "apk"
       publishLocation: "Container"
