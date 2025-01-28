@@ -12,7 +12,7 @@ steps:
   - task: UseDotNet@2
     inputs:
       packageType: "sdk"
-      version: "8.0"
+      version: "8.x"
       installationPath: $(Agent.ToolsDirectory)/dotnet
 
   - script: |
@@ -22,12 +22,12 @@ steps:
   - task: DotNetCoreCLI@2
     inputs:
       command: "restore"
-      projects: "Maui/Mds.Maui.Blazor/Mds.Maui.Blazor.csproj"
+      projects: "Mds.Maui.Blazor/Mds.Maui.Blazor.csproj"
 
   - task: DotNetCoreCLI@2
     inputs:
       command: "build"
-      projects: "Maui/Mds.Maui.Blazor/Mds.Maui.Blazor.csproj"
+      projects: "Mds.Maui.Blazor/Mds.Maui.Blazor.csproj"
       arguments: "-f:net8.0-android -c $(buildConfiguration) /p:OutputPath=$(outputDirectory)"
 
   - task: PublishBuildArtifacts@1
