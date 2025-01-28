@@ -8,5 +8,5 @@ namespace Projects;
 public class Mds_Blazor_AppHost
 {
     private Mds_Blazor_AppHost() { }
-    public static string ProjectPath => """C:\Users\gixal\Dev\M2\Dev natif\final\vazy\Mds.Blazor.AppHost""";
+    public static string ProjectPath => """C:\MDS\MAUI\ProjectFinal\Mds.Blazor.AppHost""";
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mds.Blazor.Web.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+933b880fd1e81ca1d927deed74318c5c3686ed48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf279677c4b87854b9a0c4cadd5f682993399732")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mds.Blazor.Web.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mds.Blazor.Web.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

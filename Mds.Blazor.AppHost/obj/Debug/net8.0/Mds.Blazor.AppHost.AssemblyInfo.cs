@@ -12,20 +12,20 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a2622efc-b584-44c0-9b88-b65ef35738ad")]
-[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\gixal\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\d" +
+[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\Jun-L\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\d" +
     "cp.exe")]
-[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\gixal\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\e" +
+[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\Jun-L\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\e" +
     "xt\\")]
-[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\gixal\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\e" +
+[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\Jun-L\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\e" +
     "xt\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Blazor.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "Mds.Blazor.AppHost.csproj")]
-[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\gixal\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspire.Da" +
+[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\Jun-L\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspire.Da" +
     "shboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mds.Blazor.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+933b880fd1e81ca1d927deed74318c5c3686ed48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf279677c4b87854b9a0c4cadd5f682993399732")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mds.Blazor.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mds.Blazor.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

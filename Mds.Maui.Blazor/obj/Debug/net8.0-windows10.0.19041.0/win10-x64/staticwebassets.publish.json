@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "caFyl2OENP4xs4z08sHdr/0LFSQkbG7ZuMl44vVY7c4=",
+  "Hash": "mFVC/hqt/6bKckh9nKocCxQPT5bEv9yp0AgCduljNaU=",
   "Source": "Mds.Maui.Blazor",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\Mds.Blazor.Web.Shared.csproj",
       "Version": 2,
       "Source": "Mds.Blazor.Web.Shared",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -29,7 +29,7 @@
     {
       "Name": "Mds.Maui.Blazor\\wwwroot",
       "Source": "Mds.Maui.Blazor",
-      "ContentRoot": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
@@ -99,10 +99,10 @@
       "OriginalItemSpec": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Blazor.Web.Shared\\wwwroot\\exampleJsInterop.js"
     },
     {
-      "Identity": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css",
       "SourceId": "Mds.Maui.Blazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "Mds.Maui.Blazor#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -117,13 +117,13 @@
       "Integrity": "O86/Rz1NmXmwf0ycqIG6PF/zbvxho0V96qCfB38GYtw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css"
+      "OriginalItemSpec": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css",
       "SourceId": "Mds.Maui.Blazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "Mds.Maui.Blazor#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -138,13 +138,13 @@
       "Integrity": "sbZe3sxPtjnvPdfcoPCAlVD9mZV1b0YXZ9v3kf0no3I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\css\\app.css",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\app.css",
       "SourceId": "Mds.Maui.Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -162,10 +162,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Mds.Maui.Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -183,10 +183,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Mds.Maui.Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\favicon.png",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\favicon.png",
       "SourceId": "Mds.Maui.Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -225,10 +225,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\index.html",
+      "Identity": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\index.html",
       "SourceId": "Mds.Maui.Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -495,7 +495,7 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -516,7 +516,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -532,7 +532,7 @@
     },
     {
       "Route": "css/app.dex3usdpik.css",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -553,7 +553,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -577,7 +577,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -598,7 +598,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -622,7 +622,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -643,7 +643,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -659,7 +659,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -680,7 +680,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -704,7 +704,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -725,7 +725,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -741,7 +741,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -762,7 +762,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -786,7 +786,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -807,7 +807,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -823,7 +823,7 @@
     },
     {
       "Route": "index.gk0zwgatjg.html",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\index.html",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -844,7 +844,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -868,7 +868,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\wwwroot\\index.html",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -889,7 +889,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 18:22:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -905,7 +905,7 @@
     },
     {
       "Route": "Mds.Maui.Blazor.bundle.scp.css",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -926,7 +926,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 19:13:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -942,7 +942,7 @@
     },
     {
       "Route": "Mds.Maui.Blazor.bxurof4697.bundle.scp.css",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Mds.Maui.Blazor.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -963,7 +963,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Sat, 25 Jan 2025 19:13:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -987,7 +987,7 @@
     },
     {
       "Route": "Mds.Maui.Blazor.hdmysw78ym.styles.css",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1012,7 +1012,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Mon, 27 Jan 2025 21:39:39 GMT"
         },
         {
           "Name": "Link",
@@ -1036,7 +1036,7 @@
     },
     {
       "Route": "Mds.Maui.Blazor.styles.css",
-      "AssetFile": "C:\\Users\\gixal\\Dev\\M2\\Dev natif\\final\\vazy\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css",
+      "AssetFile": "C:\\MDS\\MAUI\\ProjectFinal\\Mds.Maui.Blazor\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Mds.Maui.Blazor.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1061,7 +1061,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 19:39:39 GMT"
+          "Value": "Mon, 27 Jan 2025 21:39:39 GMT"
         },
         {
           "Name": "Link",

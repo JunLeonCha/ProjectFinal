@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = Mds.Blazor.Web.Shared
 build_property.RootNamespace = Mds.Blazor.Web.Shared
-build_property.ProjectDir = C:\Users\gixal\Dev\M2\Dev natif\final\vazy\Mds.Blazor.Web.Shared\
+build_property.ProjectDir = C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gixal\Dev\M2\Dev natif\final\vazy\Mds.Blazor.Web.Shared
+build_property.MSBuildProjectDirectory = C:\MDS\MAUI\ProjectFinal\Mds.Blazor.Web.Shared
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Blazor.Web.Shared/Components/App.razor]
+[C:/MDS/MAUI/ProjectFinal/Mds.Blazor.Web.Shared/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Blazor.Web.Shared/Components/Pages/Counter.razor]
+[C:/MDS/MAUI/ProjectFinal/Mds.Blazor.Web.Shared/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Blazor.Web.Shared/Components/Pages/Users/Users.razor]
+[C:/MDS/MAUI/ProjectFinal/Mds.Blazor.Web.Shared/Components/Pages/Users/Users.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xVc2Vyc1xVc2Vycy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Blazor.Web.Shared/Components/Pages/Users/UsersForm.razor]
+[C:/MDS/MAUI/ProjectFinal/Mds.Blazor.Web.Shared/Components/Pages/Users/UsersForm.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xVc2Vyc1xVc2Vyc0Zvcm0ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Blazor.Web.Shared/Components/Routes.razor]
+[C:/MDS/MAUI/ProjectFinal/Mds.Blazor.Web.Shared/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Blazor.Web.Shared/Components/Shared/Hello.razor]
+[C:/MDS/MAUI/ProjectFinal/Mds.Blazor.Web.Shared/Components/Shared/Hello.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcSGVsbG8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Blazor.Web.Shared/Components/_Imports.razor]
+[C:/MDS/MAUI/ProjectFinal/Mds.Blazor.Web.Shared/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Blazor.Web.Shared/_Imports.razor]
+[C:/MDS/MAUI/ProjectFinal/Mds.Blazor.Web.Shared/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Blazor.Web.Shared/Components/Layout/MainLayout.razor]
+[C:/MDS/MAUI/ProjectFinal/Mds.Blazor.Web.Shared/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-f4ey1dlhe4
 
-[C:/Users/gixal/Dev/M2/Dev natif/final/vazy/Mds.Blazor.Web.Shared/Components/Layout/NavMenu.razor]
+[C:/MDS/MAUI/ProjectFinal/Mds.Blazor.Web.Shared/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-y91dgjng14
