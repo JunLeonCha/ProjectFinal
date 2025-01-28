@@ -1,4 +1,5 @@
-﻿@page "/user/create"
+﻿@page "/"
+@page "/user/create"
 
 <div class="edit-user">
     <EditForm Model="this.user" OnValidSubmit="this.OnValidSubmitHandler">
@@ -70,7 +71,7 @@
         if (!string.IsNullOrWhiteSpace(newInterest) && !this.user.Interests.Contains(newInterest))
         {
             this.user.Interests.Add(newInterest);
-            newInterest = string.Empty; // Réinitialise le champ après ajout
+            newInterest = string.Empty;
         }
     }
 

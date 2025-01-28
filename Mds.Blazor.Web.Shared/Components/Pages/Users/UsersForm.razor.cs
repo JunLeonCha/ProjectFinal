@@ -33,7 +33,7 @@ public sealed partial class UsersForm
                 Address = user.Address,
             });
 
-            this.Navigation.NavigateTo("/");
+            this.Navigation.NavigateTo("/users");
         }
         catch (Exception ex)
         {
